@@ -20,7 +20,8 @@ Key: * = open source & + = free use.
 
 - [Agreeable](http://www.agreeble.com/) – voting software with Likert scale measurements.
 - [All our Ideas](http://www.allourideas.org/) - a data collection tool that has the scale, speed, and quantification of a survey while still allowing for new information to "bubble up" from respondents as happens in interviews, participant observation, and focus groups.
-- [AskMetafilter](http://ask.metafilter.com/) - auestions and answers by the MetaFilter community. 
+- [AskMetafilter](http://ask.metafilter.com/) - auestions and answers by the MetaFilter community.
+- [CitizenLab](https://www.citizenlab.co/) - a civic engagement platform designed for local governments. 
 - [DemocracyOS](http://democracyos.org/) - open-source, vote and debate tool, crafted for parliaments, parties and decision-making institutions that will allow citizens to get informed, join the conversation and vote on topics, just how they want their representatives to vote. Watch a demo [HERE](https://www.youtube.com/watch?v=2ZF4N8ThPvs).
 - [GoogleForms](http://www.google.com/forms/about/) – create a new survey on your own or with others at the same time.
 - [Google Moderator](https://www.google.com/moderator/) – Let your audience decide. Get to know your audience by letting them decide which questions, suggestions or ideas interest them most.
